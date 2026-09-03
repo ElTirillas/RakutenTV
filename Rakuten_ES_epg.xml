@@ -1,4 +1,8 @@
 <tv generator-info-name="Rakuten ES EPG for 7 Days" generator-info-url="https://github.com/ElTirillas/RakutenTV">
+  <channel id="mtmad">
+    <display-name lang="es">Mtmad 24h</display-name>
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/80/80@2?r=1693855724"></icon>
+  </channel>
   <channel id="france-24-en">
     <display-name lang="en">France 24 FAST English</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg"></icon>
@@ -122887,6 +122891,22 @@
     <desc lang="es">Mr Bean goes back to school.</desc>
     <category lang="es">Series</category>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg"></icon>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme channel="mtmad" start="20260903000000 +0200" stop="20260904000000 +0200">
+    <title lang="es">Lo mejor de mtmad</title>
+    <desc lang="es">Lo mejor de mtmad</desc>
+    <icon src="https://drive.google.com/uc?export=view&amp;id=1GpF9ZUnyhXRfrh1PGo82uUQfmzwF5Op-"></icon>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme channel="mtmad" start="20260904000000 +0200" stop="20260905000000 +0200">
+    <title lang="es">Lo mejor de mtmad</title>
+    <desc lang="es">Lo mejor de mtmad</desc>
+    <icon src="https://drive.google.com/uc?export=view&amp;id=1GpF9ZUnyhXRfrh1PGo82uUQfmzwF5Op-"></icon>
     <rating system="ES">
       <value>TP</value>
     </rating>
