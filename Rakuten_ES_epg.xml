@@ -3,8 +3,8 @@
     <display-name lang="es">Mtmad 24h</display-name>
     <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/80/80@2?r=1693855724"/>
   </channel>
-  <channel id="La 1">
-    <display-name>La 1</display-name>
+  <channel id="La 1 Tirillas">
+    <display-name>La 1 Tirillas</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png"/>
   </channel>
   <channel id="La 1 Baleares">
@@ -6115,1887 +6115,6 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20260930075000 +0200" stop="20260930103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T10 E193</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4414177"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930103500 +0200" stop="20260930135500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3 E28</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *7.4/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414395"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930135500 +0200" stop="20260930142000 +0200" channel="La 1">
-    <title>Informativo territorial</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930142000 +0200" stop="20260930145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3 E28</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *7.4/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414395"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930145500 +0200" stop="20260930153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930153000 +0200" stop="20260930153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930153500 +0200" stop="20260930154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.2/10
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930154000 +0200" stop="20260930155000 +0200" channel="La 1">
-    <title>Informativo territorial 2</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930155000 +0200" stop="20260930174500 +0200" channel="La 1">
-    <title>Directo al grano T3 E193</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
-· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Martín Barreiro.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414397"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930174500 +0200" stop="20260930183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4 E77</title>
-    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
-· Hernando presiona a Alejo: o pide matrimonio a Manuela o lo pagará caro. Será Braulio quien le revele a su primo algo inquietante sobre ella. Y Rosalía irrumpe en una cena familiar… ¿estará a la altura o será humillada de nuevo?
-· País: España
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
-· Productora: Bambú Producciones.</desc>
-    <category>Series, Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414393"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930183500 +0200" stop="20260930193500 +0200" channel="La 1">
-    <title>La Promesa T1 E917</title>
-    <desc>Series,Drama | 2026 | +12 | *6.2/10
-· Samuel huyó sin consumar por miedo. Ciro sospecha de Julieta, ¿dónde ha pasado la noche? Ricardo salva la boda trayendo nuevos vinos. Curro va a dejar un collar en la habitación de Pía cuando encuentra la carta que escribió Pía para él.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414399"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930193500 +0200" stop="20260930202500 +0200" channel="La 1">
-    <title>Malas lenguas T3 E467</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4414251"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930202500 +0200" stop="20260930205500 +0200" channel="La 1">
-    <title>Aquí la Tierra T15 E841</title>
-    <desc>Entretenimiento,Magacín | 2026 | TP | *6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414401"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930205500 +0200" stop="20260930214000 +0200" channel="La 1">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930214000 +0200" stop="20260930214500 +0200" channel="La 1">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930214500 +0200" stop="20260930230000 +0200" channel="La 1">
-    <title>La revuelta T3 E14</title>
-    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.6/10
-· David Broncano y su equipo reciben a todo tipo de personalidades en este irreverente programa en el que el público es protagonista.
-· País: España</desc>
-    <category>Entretenimiento, Variedades</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414403"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260930230000 +0200" stop="20261001000500 +0200" channel="La 1">
-    <title>La Promesa T1 E918</title>
-    <desc>Series,Drama | 2026 | +12 | *5.4/10
-· Es el día de la boda, pero el banquete está arruinado y Curro no aparece.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414405"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001000500 +0200" stop="20261001011500 +0200" channel="La 1">
-    <title>La Promesa T1 E919</title>
-    <desc>Series,Drama | 2026 | +12 | *5.8/10
-· Curro dice el "sí, quiero" entre lágrimas. Manuel confiesa a Julieta que siente culpa.
-· País: España
-· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414407"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001011500 +0200" stop="20261001030000 +0200" channel="La 1">
-    <title>La princesa Paca</title>
-    <desc>Cine para televisión,Cine TV drama | 2017 | +7 | *7.2/10
-· La historia de Francisca Sánchez del Pozo, "Paca", y el escritor Rubén Darío.
-· País: España
-· Dirección: Joaquín Llamas.
-· Reparto: Luisa Martín, Petra Martínez, Ana Wagener, Daniel Holguín, Irene Escolar.
-· Productora: Radio Televisión Española (RTVE), La Cometa TV.</desc>
-    <category>Cine para televisión, Cine TV drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1892139"/>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001030000 +0200" stop="20261001053500 +0200" channel="La 1">
-    <title>La noche en 24 horas</title>
-    <desc>Información,Informativo | 2014 | TP | *4.6/10
-· Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.
-· País: España
-· Presenta: Xabi Fortes, Víctor Arribas, Marc Sala.
-· Dirección: Sergio Martín, Lluís Guilera.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF850838"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001053500 +0200" stop="20261001060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001060000 +0200" stop="20261001075000 +0200" channel="La 1">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001075000 +0200" stop="20261001103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T10</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001103500 +0200" stop="20261001135500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001135500 +0200" stop="20261001142000 +0200" channel="La 1">
-    <title>Informativo territorial</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001142000 +0200" stop="20261001145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001145500 +0200" stop="20261001153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001153000 +0200" stop="20261001153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001153500 +0200" stop="20261001154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.2/10
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001154000 +0200" stop="20261001155000 +0200" channel="La 1">
-    <title>Informativo territorial 2</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001155000 +0200" stop="20261001174500 +0200" channel="La 1">
-    <title>Directo al grano T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
-· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001174500 +0200" stop="20261001183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4</title>
-    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Dirección: Miguel Conde.
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001183500 +0200" stop="20261001193500 +0200" channel="La 1">
-    <title>La Promesa T1</title>
-    <desc>Series,Drama | 2023 | +12 | *6.8/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001193500 +0200" stop="20261001202500 +0200" channel="La 1">
-    <title>Malas lenguas T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
-· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001202500 +0200" stop="20261001205500 +0200" channel="La 1">
-    <title>Aquí la Tierra T15</title>
-    <desc>Entretenimiento,Magacín | 2026 | TP | *6.2/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4338882"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001205500 +0200" stop="20261001214000 +0200" channel="La 1">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001214000 +0200" stop="20261001214500 +0200" channel="La 1">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001214500 +0200" stop="20261001230000 +0200" channel="La 1">
-    <title>La revuelta T3</title>
-    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.4/10
-· David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.
-· País: España
-· Presenta: David Broncano.</desc>
-    <category>Entretenimiento, Variedades</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394609"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261001230000 +0200" stop="20261002004000 +0200" channel="La 1">
-    <title>El perro andaluz T2</title>
-    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
-· Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad.
-· País: España
-· Presenta: Manu Sánchez.</desc>
-    <category>Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4391680"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002004000 +0200" stop="20261002023500 +0200" channel="La 1">
-    <title>El perro andaluz T2</title>
-    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
-· Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad.
-· País: España
-· Presenta: Manu Sánchez.</desc>
-    <category>Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4391680"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002023500 +0200" stop="20261002060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002060000 +0200" stop="20261002075000 +0200" channel="La 1">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002075000 +0200" stop="20261002103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T10</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002103500 +0200" stop="20261002135500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002135500 +0200" stop="20261002142000 +0200" channel="La 1">
-    <title>Informativo territorial</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002142000 +0200" stop="20261002145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002145500 +0200" stop="20261002153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002153000 +0200" stop="20261002153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002153500 +0200" stop="20261002154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.2/10
-· Información sobre la previsión meteorológica.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002154000 +0200" stop="20261002155000 +0200" channel="La 1">
-    <title>Informativo territorial 2</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002155000 +0200" stop="20261002174500 +0200" channel="La 1">
-    <title>Directo al grano T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
-· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002174500 +0200" stop="20261002183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4</title>
-    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Dirección: Miguel Conde.
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002183500 +0200" stop="20261002202500 +0200" channel="La 1">
-    <title>La Promesa T1</title>
-    <desc>Series,Drama | 2023 | +12 | *6.8/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002202500 +0200" stop="20261002203500 +0200" channel="La 1">
-    <title>Malas lenguas T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
-· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002203500 +0200" stop="20261002223000 +0200" channel="La 1">
-    <title>DIRECTO Jornada 3: Francia - Italia T26/27 · UEFA Nations League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.0/10
-· La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4507695"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002223000 +0200" stop="20261002225500 +0200" channel="La 1">
-    <title>Los archivos secretos del No-Do</title>
-    <desc>Documentales,Historia | 2026 | +16 | *6.2/10
-· Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.
-· País: España
-· Dirección: Eulàlia Gómez Duran.
-· Productora: RTVE Play, Toni Soler.</desc>
-    <category>Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4398027"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002225500 +0200" stop="20261002235000 +0200" channel="La 1">
-    <title>Los archivos secretos del No-Do</title>
-    <desc>Documentales,Historia | 2026 | TP | *6.2/10
-· Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.
-· País: España
-· Dirección: Eulàlia Gómez Duran.
-· Productora: RTVE Play, Toni Soler.</desc>
-    <category>Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4398027"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261002235000 +0200" stop="20261003004500 +0200" channel="La 1">
-    <title>España, el siglo XX en color</title>
-    <desc>Documentales,Historia | 2022 | *6.8/10
-· Serie documental que realiza un recorrido por España desde los años 30 hasta finales de los 70. Imágenes inéditas del pasado que reflejan los grandes acontecimientos y la pequeña historia de la vida cotidiana en nuestro país.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Toni Soler, Minoría Absoluta.</desc>
-    <category>Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2156827"/>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003004500 +0200" stop="20261003014000 +0200" channel="La 1">
-    <title>España, el siglo XX en color</title>
-    <desc>Documentales,Historia | 2022 | *6.8/10
-· Serie documental que realiza un recorrido por España desde los años 30 hasta finales de los 70. Imágenes inéditas del pasado que reflejan los grandes acontecimientos y la pequeña historia de la vida cotidiana en nuestro país.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Toni Soler, Minoría Absoluta.</desc>
-    <category>Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2156827"/>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003014000 +0200" stop="20261003024000 +0200" channel="La 1">
-    <title>España, el siglo XX en color</title>
-    <desc>Documentales,Historia | 2022 | *6.8/10
-· Serie documental que realiza un recorrido por España desde los años 30 hasta finales de los 70. Imágenes inéditas del pasado que reflejan los grandes acontecimientos y la pequeña historia de la vida cotidiana en nuestro país.
-· País: España
-· Productora: Radio Televisión Española (RTVE), Toni Soler, Minoría Absoluta.</desc>
-    <category>Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2156827"/>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003024000 +0200" stop="20261003043000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261003043000 +0200" stop="20261003060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003070000 +0200" stop="20261003100000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003100000 +0200" stop="20261003103000 +0200" channel="La 1">
-    <title>Audiencia abierta</title>
-    <desc>Información,Política | 2012 | TP | *6.0/10
-· Espacio semanal de servicio público sobre la Jefatura del Estado.
-· País: España
-· Dirección: Miguel Ángel Sacaluga.</desc>
-    <category>Información, Política</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1065634"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003103000 +0200" stop="20261003110000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003110000 +0200" stop="20261003120500 +0200" channel="La 1">
-    <title>Viaje al centro de la tele T15</title>
-    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-    <category>Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003120500 +0200" stop="20261003130500 +0200" channel="La 1">
-    <title>Viaje al centro de la tele T15</title>
-    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-    <category>Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003130500 +0200" stop="20261003145500 +0200" channel="La 1">
-    <title>D Corazón</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.2/10
-· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-· País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <category>Entretenimiento, Corazon y sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4209646"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003145500 +0200" stop="20261003154500 +0200" channel="La 1">
-    <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | *4.2/10
-· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-· País: España
-· Presenta: Marc Sala, Lourdes Maldonado.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114179"/>
-    <star-rating system="ES">
-      <value>4.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003154500 +0200" stop="20261003155000 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003155000 +0200" stop="20261003155500 +0200" channel="La 1">
-    <title>La suerte en tus manos</title>
-    <desc>Ocio y Aficiones,Juegos | 2005 | TP | *6.2/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Ocio y Aficiones, Juegos</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF518464"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003155500 +0200" stop="20261003173000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261003173000 +0200" stop="20261003191000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261003191000 +0200" stop="20261003203500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261003203500 +0200" stop="20261003223000 +0200" channel="La 1">
-    <title>DIRECTO Jornada 3: España - Chequia T26/27 · UEFA Nations League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4507697"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003223000 +0200" stop="20261003230000 +0200" channel="La 1">
-    <title>La amiga estupenda T1</title>
-    <desc>Series,Drama | 2018 | +12 | *6.0/10
-· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
-· País: Estados Unidos e Italia
-· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
-· Productora: Fandango, Wildside.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003230000 +0200" stop="20261003235500 +0200" channel="La 1">
-    <title>La amiga estupenda T1</title>
-    <desc>Series,Drama | 2018 | +12 | *6.0/10
-· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
-· País: Estados Unidos e Italia
-· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
-· Productora: Fandango, Wildside.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261003235500 +0200" stop="20261004010000 +0200" channel="La 1">
-    <title>La amiga estupenda T1</title>
-    <desc>Series,Drama | 2018 | +12 | *6.0/10
-· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
-· País: Estados Unidos e Italia
-· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
-· Productora: Fandango, Wildside.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004010000 +0200" stop="20261004015000 +0200" channel="La 1">
-    <title>La amiga estupenda T1</title>
-    <desc>Series,Drama | 2018 | +12 | *6.0/10
-· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
-· País: Estados Unidos e Italia
-· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
-· Productora: Fandango, Wildside.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004015000 +0200" stop="20261004025500 +0200" channel="La 1">
-    <title>La amiga estupenda T1</title>
-    <desc>Series,Drama | 2018 | +12 | *6.0/10
-· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
-· País: Estados Unidos e Italia
-· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
-· Productora: Fandango, Wildside.</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004025500 +0200" stop="20261004060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004060000 +0200" stop="20261004070000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004070000 +0200" stop="20261004110500 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004110500 +0200" stop="20261004121000 +0200" channel="La 1">
-    <title>Viaje al centro de la tele T15</title>
-    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-    <category>Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004121000 +0200" stop="20261004130500 +0200" channel="La 1">
-    <title>Viaje al centro de la tele T15</title>
-    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
-· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
-· País: España
-· Dirección: Pedro Santos.</desc>
-    <category>Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004130500 +0200" stop="20261004145500 +0200" channel="La 1">
-    <title>D Corazón</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.0/10
-· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
-· País: España
-· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
-    <category>Entretenimiento, Corazon y sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4209646"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004145500 +0200" stop="20261004154500 +0200" channel="La 1">
-    <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | TP | *4.2/10
-· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
-· País: España
-· Presenta: Marc Sala, Lourdes Maldonado.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114179"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004154500 +0200" stop="20261004155000 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004155000 +0200" stop="20261004155500 +0200" channel="La 1">
-    <title>La suerte en tus manos</title>
-    <desc>Ocio y Aficiones,Juegos | 2005 | TP | *6.2/10
-· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
-· País: España
-· Presenta: Silvia Salgado.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Ocio y Aficiones, Juegos</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF518464"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004155500 +0200" stop="20261004174000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261004174000 +0200" stop="20261004191000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261004191000 +0200" stop="20261004203500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261004203500 +0200" stop="20261004223000 +0200" channel="La 1">
-    <title>DIRECTO Jornada 4: Portugal - Noruega T26/27 · UEFA Nations League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4507699"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261004223000 +0200" stop="20261004235000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261004235000 +0200" stop="20261005013000 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261005013000 +0200" stop="20261005032500 +0200" channel="La 1">
-    <title>Cine</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261005032500 +0200" stop="20261005060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005060000 +0200" stop="20261005075000 +0200" channel="La 1">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005075000 +0200" stop="20261005103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T10</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005103500 +0200" stop="20261005135500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005135500 +0200" stop="20261005142000 +0200" channel="La 1">
-    <title>Informativo territorial</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005142000 +0200" stop="20261005145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005145500 +0200" stop="20261005153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005153000 +0200" stop="20261005153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005153500 +0200" stop="20261005154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | *6.2/10
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005154000 +0200" stop="20261005155000 +0200" channel="La 1">
-    <title>Informativo territorial</title>
-    <desc>Información,Informativo | 2023 | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF518424"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005155000 +0200" stop="20261005174500 +0200" channel="La 1">
-    <title>Directo al grano T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
-· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005174500 +0200" stop="20261005183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4</title>
-    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Dirección: Miguel Conde.
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005183500 +0200" stop="20261005193500 +0200" channel="La 1">
-    <title>La Promesa T1</title>
-    <desc>Series,Drama | 2023 | +12 | *6.8/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005193500 +0200" stop="20261005202500 +0200" channel="La 1">
-    <title>Malas lenguas T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
-· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005202500 +0200" stop="20261005205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005205500 +0200" stop="20261005214000 +0200" channel="La 1">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005214000 +0200" stop="20261005214500 +0200" channel="La 1">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005214500 +0200" stop="20261005230000 +0200" channel="La 1">
-    <title>La revuelta T3</title>
-    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.4/10
-· David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.
-· País: España
-· Presenta: David Broncano.</desc>
-    <category>Entretenimiento, Variedades</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394609"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261005230000 +0200" stop="20261006022500 +0200" channel="La 1">
-    <title>MasterChef Celebrity Legends T1</title>
-    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.6/10
-· MasterChef da una segunda oportunidad a participantes famosos de las ediciones anteriores.
-· País: España</desc>
-    <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394611"/>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006022500 +0200" stop="20261006050000 +0200" channel="La 1">
-    <title>La noche en 24 horas</title>
-    <desc>Información,Informativo | 2014 | TP | *4.6/10
-· Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.
-· País: España
-· Presenta: Xabi Fortes, Víctor Arribas, Marc Sala.
-· Dirección: Sergio Martín, Lluís Guilera.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF850838"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006050000 +0200" stop="20261006060000 +0200" channel="La 1">
-    <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
-· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
-· País: España</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006060000 +0200" stop="20261006075000 +0200" channel="La 1">
-    <title>Telediario Matinal</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
-· País: España
-· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006075000 +0200" stop="20261006103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T10</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
-· País: España
-· Dirección: Silvia Intxaurrondo.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006103500 +0200" stop="20261006135500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006135500 +0200" stop="20261006142000 +0200" channel="La 1">
-    <title>Informativo territorial</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006142000 +0200" stop="20261006145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
-· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
-· País: España
-· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006145500 +0200" stop="20261006153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
-· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
-· País: España
-· Presenta: Alejandra Herranz.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006153000 +0200" stop="20261006153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006153500 +0200" stop="20261006154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.2/10
-· Información sobre la previsión meteorológica de TVE.
-· País: España
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006154000 +0200" stop="20261006155000 +0200" channel="La 1">
-    <title>Informativo territorial 2</title>
-    <desc>Información,Informativo | 2023 | TP | *6.0/10
-· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006155000 +0200" stop="20261006174500 +0200" channel="La 1">
-    <title>Directo al grano T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
-· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
-· País: España
-· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>5.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006174500 +0200" stop="20261006183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4</title>
-    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
-· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
-· País: España
-· Dirección: Miguel Conde.
-· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
-· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006183500 +0200" stop="20261006193500 +0200" channel="La 1">
-    <title>La Promesa T1</title>
-    <desc>Series,Drama | 2023 | +12 | *6.8/10
-· En 1913, una mujer, una venganza y una gran historia de amor.
-· País: España
-· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
-· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
-· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
-    <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006193500 +0200" stop="20261006202500 +0200" channel="La 1">
-    <title>Malas lenguas T3</title>
-    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
-· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
-· País: España
-· Dirección: Jesús Cintora.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006202500 +0200" stop="20261006205500 +0200" channel="La 1">
-    <title>Aquí la Tierra</title>
-    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
-· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
-· País: España
-· Presenta: Jacob Petrus, Marc Santandreu.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006205500 +0200" stop="20261006214000 +0200" channel="La 1">
-    <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
-· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
-· País: España
-· Presenta: Pepa Bueno.
-· Productora: Televisión Española (TVE).</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006214000 +0200" stop="20261006214500 +0200" channel="La 1">
-    <title>Deportes 2</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
-· Actualidad deportiva diaria nacional e internacional.
-· País: España
-· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006214500 +0200" stop="20261006230000 +0200" channel="La 1">
-    <title>La revuelta T3</title>
-    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.4/10
-· David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.
-· País: España
-· Presenta: David Broncano.</desc>
-    <category>Entretenimiento, Variedades</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394609"/>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261006230000 +0200" stop="20261007011000 +0200" channel="La 1">
-    <title>Dog House T2</title>
-    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.0/10
-· El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.
-· País: España
-· Presenta: Chenoa.
-· Dirección: Miguel Ángel Cárcano.
-· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
-    <category>Ocio y Aficiones, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4355109"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261007011000 +0200" stop="20261007031500 +0200" channel="La 1">
-    <title>Dog House T2</title>
-    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.0/10
-· El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.
-· País: España
-· Presenta: Chenoa.
-· Dirección: Miguel Ángel Cárcano.
-· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
-    <category>Ocio y Aficiones, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4355109"/>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
   <programme start="20260930075000 +0200" stop="20260930103500 +0200" channel="La 1 Baleares">
     <title>La hora de La 1: La hora de la actualidad T10 E193</title>
     <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
@@ -9861,6 +7980,1887 @@
     </star-rating>
   </programme>
   <programme start="20261007011000 +0200" stop="20261007031500 +0200" channel="La 1 Baleares">
+    <title>Dog House T2</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.0/10
+· El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.
+· País: España
+· Presenta: Chenoa.
+· Dirección: Miguel Ángel Cárcano.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
+    <category>Ocio y Aficiones, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4355109"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930075000 +0200" stop="20260930103500 +0200" channel="La 1 Tirillas">
+    <title>La hora de La 1: La hora de la actualidad T10 E193</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4414177"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930103500 +0200" stop="20260930135500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3 E28</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *7.4/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414395"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930135500 +0200" stop="20260930142000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930142000 +0200" stop="20260930145500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3 E28</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *7.4/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414395"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930145500 +0200" stop="20260930153000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930153000 +0200" stop="20260930153500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930153500 +0200" stop="20260930154000 +0200" channel="La 1 Tirillas">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | TP | *6.2/10
+· Información sobre la previsión meteorológica de TVE.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930154000 +0200" stop="20260930155000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930155000 +0200" stop="20260930174500 +0200" channel="La 1 Tirillas">
+    <title>Directo al grano T3 E193</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Martín Barreiro.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414397"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930174500 +0200" stop="20260930183500 +0200" channel="La 1 Tirillas">
+    <title>Valle Salvaje T4 E77</title>
+    <desc>Series,Telenovela | 2026 | +12 | *6.0/10
+· Hernando presiona a Alejo: o pide matrimonio a Manuela o lo pagará caro. Será Braulio quien le revele a su primo algo inquietante sobre ella. Y Rosalía irrumpe en una cena familiar… ¿estará a la altura o será humillada de nuevo?
+· País: España
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414393"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930183500 +0200" stop="20260930193500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1 E917</title>
+    <desc>Series,Drama | 2026 | +12 | *6.2/10
+· Samuel huyó sin consumar por miedo. Ciro sospecha de Julieta, ¿dónde ha pasado la noche? Ricardo salva la boda trayendo nuevos vinos. Curro va a dejar un collar en la habitación de Pía cuando encuentra la carta que escribió Pía para él.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414399"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930193500 +0200" stop="20260930202500 +0200" channel="La 1 Tirillas">
+    <title>Malas lenguas T3 E467</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4414251"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930202500 +0200" stop="20260930205500 +0200" channel="La 1 Tirillas">
+    <title>Aquí la Tierra T15 E841</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | *6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414401"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930205500 +0200" stop="20260930214000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930214000 +0200" stop="20260930214500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930214500 +0200" stop="20260930230000 +0200" channel="La 1 Tirillas">
+    <title>La revuelta T3 E14</title>
+    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.6/10
+· David Broncano y su equipo reciben a todo tipo de personalidades en este irreverente programa en el que el público es protagonista.
+· País: España</desc>
+    <category>Entretenimiento, Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414403"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260930230000 +0200" stop="20261001000500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1 E918</title>
+    <desc>Series,Drama | 2026 | +12 | *5.4/10
+· Es el día de la boda, pero el banquete está arruinado y Curro no aparece.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414405"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001000500 +0200" stop="20261001011500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1 E919</title>
+    <desc>Series,Drama | 2026 | +12 | *5.8/10
+· Curro dice el "sí, quiero" entre lágrimas. Manuel confiesa a Julieta que siente culpa.
+· País: España
+· Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Radio Televisión Española (RTVE), StudioCanal, Bambú Producciones.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4414407"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001011500 +0200" stop="20261001030000 +0200" channel="La 1 Tirillas">
+    <title>La princesa Paca</title>
+    <desc>Cine para televisión,Cine TV drama | 2017 | +7 | *7.2/10
+· La historia de Francisca Sánchez del Pozo, "Paca", y el escritor Rubén Darío.
+· País: España
+· Dirección: Joaquín Llamas.
+· Reparto: Luisa Martín, Petra Martínez, Ana Wagener, Daniel Holguín, Irene Escolar.
+· Productora: Radio Televisión Española (RTVE), La Cometa TV.</desc>
+    <category>Cine para televisión, Cine TV drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF1892139"/>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001030000 +0200" stop="20261001053500 +0200" channel="La 1 Tirillas">
+    <title>La noche en 24 horas</title>
+    <desc>Información,Informativo | 2014 | TP | *4.6/10
+· Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.
+· País: España
+· Presenta: Xabi Fortes, Víctor Arribas, Marc Sala.
+· Dirección: Sergio Martín, Lluís Guilera.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF850838"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001053500 +0200" stop="20261001060000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001060000 +0200" stop="20261001075000 +0200" channel="La 1 Tirillas">
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | *6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001075000 +0200" stop="20261001103500 +0200" channel="La 1 Tirillas">
+    <title>La hora de La 1: La hora de la actualidad T10</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001103500 +0200" stop="20261001135500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001135500 +0200" stop="20261001142000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001142000 +0200" stop="20261001145500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001145500 +0200" stop="20261001153000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001153000 +0200" stop="20261001153500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001153500 +0200" stop="20261001154000 +0200" channel="La 1 Tirillas">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | TP | *6.2/10
+· Información sobre la previsión meteorológica de TVE.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001154000 +0200" stop="20261001155000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001155000 +0200" stop="20261001174500 +0200" channel="La 1 Tirillas">
+    <title>Directo al grano T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001174500 +0200" stop="20261001183500 +0200" channel="La 1 Tirillas">
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Dirección: Miguel Conde.
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
+· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001183500 +0200" stop="20261001193500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | +12 | *6.8/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001193500 +0200" stop="20261001202500 +0200" channel="La 1 Tirillas">
+    <title>Malas lenguas T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001202500 +0200" stop="20261001205500 +0200" channel="La 1 Tirillas">
+    <title>Aquí la Tierra T15</title>
+    <desc>Entretenimiento,Magacín | 2026 | TP | *6.2/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4338882"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001205500 +0200" stop="20261001214000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001214000 +0200" stop="20261001214500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001214500 +0200" stop="20261001230000 +0200" channel="La 1 Tirillas">
+    <title>La revuelta T3</title>
+    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.4/10
+· David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.
+· País: España
+· Presenta: David Broncano.</desc>
+    <category>Entretenimiento, Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394609"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261001230000 +0200" stop="20261002004000 +0200" channel="La 1 Tirillas">
+    <title>El perro andaluz T2</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
+· Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad.
+· País: España
+· Presenta: Manu Sánchez.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4391680"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002004000 +0200" stop="20261002023500 +0200" channel="La 1 Tirillas">
+    <title>El perro andaluz T2</title>
+    <desc>Entretenimiento,Humor | 2026 | +12 | *6.4/10
+· Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad.
+· País: España
+· Presenta: Manu Sánchez.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4391680"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002023500 +0200" stop="20261002060000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002060000 +0200" stop="20261002075000 +0200" channel="La 1 Tirillas">
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002075000 +0200" stop="20261002103500 +0200" channel="La 1 Tirillas">
+    <title>La hora de La 1: La hora de la actualidad T10</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002103500 +0200" stop="20261002135500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002135500 +0200" stop="20261002142000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002142000 +0200" stop="20261002145500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVET4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002145500 +0200" stop="20261002153000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002153000 +0200" stop="20261002153500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002153500 +0200" stop="20261002154000 +0200" channel="La 1 Tirillas">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | TP | *6.2/10
+· Información sobre la previsión meteorológica.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF332735"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002154000 +0200" stop="20261002155000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002155000 +0200" stop="20261002174500 +0200" channel="La 1 Tirillas">
+    <title>Directo al grano T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002174500 +0200" stop="20261002183500 +0200" channel="La 1 Tirillas">
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Dirección: Miguel Conde.
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
+· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002183500 +0200" stop="20261002202500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | +12 | *6.8/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002202500 +0200" stop="20261002203500 +0200" channel="La 1 Tirillas">
+    <title>Malas lenguas T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002203500 +0200" stop="20261002223000 +0200" channel="La 1 Tirillas">
+    <title>DIRECTO Jornada 3: Francia - Italia T26/27 · UEFA Nations League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.0/10
+· La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4507695"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002223000 +0200" stop="20261002225500 +0200" channel="La 1 Tirillas">
+    <title>Los archivos secretos del No-Do</title>
+    <desc>Documentales,Historia | 2026 | +16 | *6.2/10
+· Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.
+· País: España
+· Dirección: Eulàlia Gómez Duran.
+· Productora: RTVE Play, Toni Soler.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4398027"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002225500 +0200" stop="20261002235000 +0200" channel="La 1 Tirillas">
+    <title>Los archivos secretos del No-Do</title>
+    <desc>Documentales,Historia | 2026 | TP | *6.2/10
+· Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.
+· País: España
+· Dirección: Eulàlia Gómez Duran.
+· Productora: RTVE Play, Toni Soler.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4398027"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261002235000 +0200" stop="20261003004500 +0200" channel="La 1 Tirillas">
+    <title>España, el siglo XX en color</title>
+    <desc>Documentales,Historia | 2022 | *6.8/10
+· Serie documental que realiza un recorrido por España desde los años 30 hasta finales de los 70. Imágenes inéditas del pasado que reflejan los grandes acontecimientos y la pequeña historia de la vida cotidiana en nuestro país.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Toni Soler, Minoría Absoluta.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2156827"/>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003004500 +0200" stop="20261003014000 +0200" channel="La 1 Tirillas">
+    <title>España, el siglo XX en color</title>
+    <desc>Documentales,Historia | 2022 | *6.8/10
+· Serie documental que realiza un recorrido por España desde los años 30 hasta finales de los 70. Imágenes inéditas del pasado que reflejan los grandes acontecimientos y la pequeña historia de la vida cotidiana en nuestro país.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Toni Soler, Minoría Absoluta.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2156827"/>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003014000 +0200" stop="20261003024000 +0200" channel="La 1 Tirillas">
+    <title>España, el siglo XX en color</title>
+    <desc>Documentales,Historia | 2022 | *6.8/10
+· Serie documental que realiza un recorrido por España desde los años 30 hasta finales de los 70. Imágenes inéditas del pasado que reflejan los grandes acontecimientos y la pequeña historia de la vida cotidiana en nuestro país.
+· País: España
+· Productora: Radio Televisión Española (RTVE), Toni Soler, Minoría Absoluta.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2156827"/>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003024000 +0200" stop="20261003043000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261003043000 +0200" stop="20261003060000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003070000 +0200" stop="20261003100000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003100000 +0200" stop="20261003103000 +0200" channel="La 1 Tirillas">
+    <title>Audiencia abierta</title>
+    <desc>Información,Política | 2012 | TP | *6.0/10
+· Espacio semanal de servicio público sobre la Jefatura del Estado.
+· País: España
+· Dirección: Miguel Ángel Sacaluga.</desc>
+    <category>Información, Política</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1065634"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003103000 +0200" stop="20261003110000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003110000 +0200" stop="20261003120500 +0200" channel="La 1 Tirillas">
+    <title>Viaje al centro de la tele T15</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003120500 +0200" stop="20261003130500 +0200" channel="La 1 Tirillas">
+    <title>Viaje al centro de la tele T15</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003130500 +0200" stop="20261003145500 +0200" channel="La 1 Tirillas">
+    <title>D Corazón</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.2/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+    <category>Entretenimiento, Corazon y sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4209646"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003145500 +0200" stop="20261003154500 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | *4.2/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114179"/>
+    <star-rating system="ES">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003154500 +0200" stop="20261003155000 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003155000 +0200" stop="20261003155500 +0200" channel="La 1 Tirillas">
+    <title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2005 | TP | *6.2/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Ocio y Aficiones, Juegos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF518464"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003155500 +0200" stop="20261003173000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261003173000 +0200" stop="20261003191000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261003191000 +0200" stop="20261003203500 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261003203500 +0200" stop="20261003223000 +0200" channel="La 1 Tirillas">
+    <title>DIRECTO Jornada 3: España - Chequia T26/27 · UEFA Nations League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4507697"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003223000 +0200" stop="20261003230000 +0200" channel="La 1 Tirillas">
+    <title>La amiga estupenda T1</title>
+    <desc>Series,Drama | 2018 | +12 | *6.0/10
+· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
+· País: Estados Unidos e Italia
+· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
+· Productora: Fandango, Wildside.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003230000 +0200" stop="20261003235500 +0200" channel="La 1 Tirillas">
+    <title>La amiga estupenda T1</title>
+    <desc>Series,Drama | 2018 | +12 | *6.0/10
+· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
+· País: Estados Unidos e Italia
+· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
+· Productora: Fandango, Wildside.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261003235500 +0200" stop="20261004010000 +0200" channel="La 1 Tirillas">
+    <title>La amiga estupenda T1</title>
+    <desc>Series,Drama | 2018 | +12 | *6.0/10
+· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
+· País: Estados Unidos e Italia
+· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
+· Productora: Fandango, Wildside.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004010000 +0200" stop="20261004015000 +0200" channel="La 1 Tirillas">
+    <title>La amiga estupenda T1</title>
+    <desc>Series,Drama | 2018 | +12 | *6.0/10
+· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
+· País: Estados Unidos e Italia
+· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
+· Productora: Fandango, Wildside.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004015000 +0200" stop="20261004025500 +0200" channel="La 1 Tirillas">
+    <title>La amiga estupenda T1</title>
+    <desc>Series,Drama | 2018 | +12 | *6.0/10
+· Cuando su mejor amiga desaparece, una mujer mayor llamada Elena Greco, enciende su ordenador y comienza a escribir su historia y la de Lila, narrando una amistad que comenzó en el colegio en los años cincuenta.
+· País: Estados Unidos e Italia
+· Reparto: Mattia Bisonni, Dora Romano, Ludovica Nasti, Gaia Girace, Elisa del Genio, Margherita Mazzucco.
+· Productora: Fandango, Wildside.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4174731"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004025500 +0200" stop="20261004060000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004060000 +0200" stop="20261004070000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004070000 +0200" stop="20261004110500 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004110500 +0200" stop="20261004121000 +0200" channel="La 1 Tirillas">
+    <title>Viaje al centro de la tele T15</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004121000 +0200" stop="20261004130500 +0200" channel="La 1 Tirillas">
+    <title>Viaje al centro de la tele T15</title>
+    <desc>Entretenimiento,Zapping | 2026 | TP | *6.2/10
+· Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
+· País: España
+· Dirección: Pedro Santos.</desc>
+    <category>Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4361067"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004130500 +0200" stop="20261004145500 +0200" channel="La 1 Tirillas">
+    <title>D Corazón</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.0/10
+· Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
+· País: España
+· Presenta: Anne Igartiburu, Jordi González, Javier de Hoyos.</desc>
+    <category>Entretenimiento, Corazon y sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4209646"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004145500 +0200" stop="20261004154500 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1 Fin de Semana</title>
+    <desc>Información,Informativo | 2021 | TP | *4.2/10
+· Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
+· País: España
+· Presenta: Marc Sala, Lourdes Maldonado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF1114179"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004154500 +0200" stop="20261004155000 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004155000 +0200" stop="20261004155500 +0200" channel="La 1 Tirillas">
+    <title>La suerte en tus manos</title>
+    <desc>Ocio y Aficiones,Juegos | 2005 | TP | *6.2/10
+· Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.
+· País: España
+· Presenta: Silvia Salgado.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Ocio y Aficiones, Juegos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF518464"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004155500 +0200" stop="20261004174000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261004174000 +0200" stop="20261004191000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261004191000 +0200" stop="20261004203500 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261004203500 +0200" stop="20261004223000 +0200" channel="La 1 Tirillas">
+    <title>DIRECTO Jornada 4: Portugal - Noruega T26/27 · UEFA Nations League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4507699"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261004223000 +0200" stop="20261004235000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261004235000 +0200" stop="20261005013000 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261005013000 +0200" stop="20261005032500 +0200" channel="La 1 Tirillas">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20261005032500 +0200" stop="20261005060000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005060000 +0200" stop="20261005075000 +0200" channel="La 1 Tirillas">
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005075000 +0200" stop="20261005103500 +0200" channel="La 1 Tirillas">
+    <title>La hora de La 1: La hora de la actualidad T10</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.0/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005103500 +0200" stop="20261005135500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005135500 +0200" stop="20261005142000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005142000 +0200" stop="20261005145500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005145500 +0200" stop="20261005153000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005153000 +0200" stop="20261005153500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005153500 +0200" stop="20261005154000 +0200" channel="La 1 Tirillas">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | *6.2/10
+· Información sobre la previsión meteorológica de TVE.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005154000 +0200" stop="20261005155000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial</title>
+    <desc>Información,Informativo | 2023 | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF518424"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005155000 +0200" stop="20261005174500 +0200" channel="La 1 Tirillas">
+    <title>Directo al grano T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005174500 +0200" stop="20261005183500 +0200" channel="La 1 Tirillas">
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Dirección: Miguel Conde.
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
+· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005183500 +0200" stop="20261005193500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | +12 | *6.8/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005193500 +0200" stop="20261005202500 +0200" channel="La 1 Tirillas">
+    <title>Malas lenguas T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005202500 +0200" stop="20261005205500 +0200" channel="La 1 Tirillas">
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005205500 +0200" stop="20261005214000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005214000 +0200" stop="20261005214500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005214500 +0200" stop="20261005230000 +0200" channel="La 1 Tirillas">
+    <title>La revuelta T3</title>
+    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.4/10
+· David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.
+· País: España
+· Presenta: David Broncano.</desc>
+    <category>Entretenimiento, Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394609"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261005230000 +0200" stop="20261006022500 +0200" channel="La 1 Tirillas">
+    <title>MasterChef Celebrity Legends T1</title>
+    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.6/10
+· MasterChef da una segunda oportunidad a participantes famosos de las ediciones anteriores.
+· País: España</desc>
+    <category>Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394611"/>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006022500 +0200" stop="20261006050000 +0200" channel="La 1 Tirillas">
+    <title>La noche en 24 horas</title>
+    <desc>Información,Informativo | 2014 | TP | *4.6/10
+· Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.
+· País: España
+· Presenta: Xabi Fortes, Víctor Arribas, Marc Sala.
+· Dirección: Sergio Martín, Lluís Guilera.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF850838"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006050000 +0200" stop="20261006060000 +0200" channel="La 1 Tirillas">
+    <title>Noticias 24H</title>
+    <desc>Información,Informativo | 2021 | *6.2/10
+· Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/F4315171"/>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006060000 +0200" stop="20261006075000 +0200" channel="La 1 Tirillas">
+    <title>Telediario Matinal</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
+· País: España
+· Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518404"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006075000 +0200" stop="20261006103500 +0200" channel="La 1 Tirillas">
+    <title>La hora de La 1: La hora de la actualidad T10</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+· País: España
+· Dirección: Silvia Intxaurrondo.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF4385025"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006103500 +0200" stop="20261006135500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006135500 +0200" stop="20261006142000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006142000 +0200" stop="20261006145500 +0200" channel="La 1 Tirillas">
+    <title>Mañaneros 360 T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.2/10
+· Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Jesús Cintora, Javier Ruiz, Miriam Moreno.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383283"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006145500 +0200" stop="20261006153000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 1</title>
+    <desc>Información,Informativo | 2014 | TP | *6.2/10
+· El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
+· País: España
+· Presenta: Alejandra Herranz.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518438"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006153000 +0200" stop="20261006153500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 1</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921384"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006153500 +0200" stop="20261006154000 +0200" channel="La 1 Tirillas">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2014 | TP | *6.2/10
+· Información sobre la previsión meteorológica de TVE.
+· País: España
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF332735"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006154000 +0200" stop="20261006155000 +0200" channel="La 1 Tirillas">
+    <title>Informativo territorial 2</title>
+    <desc>Información,Informativo | 2023 | TP | *6.0/10
+· Espacio de emisión del informativo de cada centro territorial de TVE.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2189999"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006155000 +0200" stop="20261006174500 +0200" channel="La 1 Tirillas">
+    <title>Directo al grano T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *5.8/10
+· Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró, Martín Barreiro.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4383285"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006174500 +0200" stop="20261006183500 +0200" channel="La 1 Tirillas">
+    <title>Valle Salvaje T4</title>
+    <desc>Series,Telenovela | 2026 | +12 | *6.2/10
+· Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
+· País: España
+· Dirección: Miguel Conde.
+· Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marco Pernas, Sabela Arán, Marina Sabadell, Mari Paz Sayago, Miren Arrieta, Chechu Salgado.
+· Productora: Bambú Producciones, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4314916"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006183500 +0200" stop="20261006193500 +0200" channel="La 1 Tirillas">
+    <title>La Promesa T1</title>
+    <desc>Series,Drama | 2023 | +12 | *6.8/10
+· En 1913, una mujer, una venganza y una gran historia de amor.
+· País: España
+· Reparto: Joaquín Climent, María Castro, Eva Martín, Ana Garcés, Arturo Sancho.
+· Guion: Alberto Grondona, Benjamín Zafra, Juanma Ruiz.
+· Productora: Bambú Producciones, StudioCanal, Radio Televisión Española (RTVE).</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF2162814"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006193500 +0200" stop="20261006202500 +0200" channel="La 1 Tirillas">
+    <title>Malas lenguas T3</title>
+    <desc>Entretenimiento,Magacín | 2026 | +16 | *6.6/10
+· Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4387639"/>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006202500 +0200" stop="20261006205500 +0200" channel="La 1 Tirillas">
+    <title>Aquí la Tierra</title>
+    <desc>Entretenimiento,Magacín | 2025 | TP | *6.0/10
+· Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
+· País: España
+· Presenta: Jacob Petrus, Marc Santandreu.</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4108661"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006205500 +0200" stop="20261006214000 +0200" channel="La 1 Tirillas">
+    <title>Telediario 2</title>
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
+· Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
+· País: España
+· Presenta: Pepa Bueno.
+· Productora: Televisión Española (TVE).</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/M24HF518466"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006214000 +0200" stop="20261006214500 +0200" channel="La 1 Tirillas">
+    <title>Deportes 2</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Actualidad deportiva diaria nacional e internacional.
+· País: España
+· Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF3921386"/>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006214500 +0200" stop="20261006230000 +0200" channel="La 1 Tirillas">
+    <title>La revuelta T3</title>
+    <desc>Entretenimiento,Variedades | 2026 | +12 | *6.4/10
+· David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.
+· País: España
+· Presenta: David Broncano.</desc>
+    <category>Entretenimiento, Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MTVEF4394609"/>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261006230000 +0200" stop="20261007011000 +0200" channel="La 1 Tirillas">
+    <title>Dog House T2</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.0/10
+· El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.
+· País: España
+· Presenta: Chenoa.
+· Dirección: Miguel Ángel Cárcano.
+· Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
+    <category>Ocio y Aficiones, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/ficha/MCLANTVF4355109"/>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261007011000 +0200" stop="20261007031500 +0200" channel="La 1 Tirillas">
     <title>Dog House T2</title>
     <desc>Ocio y Aficiones,Naturaleza | 2026 | TP | *6.0/10
 · El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.
